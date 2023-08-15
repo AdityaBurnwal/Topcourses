@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Topcourses/static/css/main.85c0c9ce.css",
+    "main.js": "/Topcourses/static/js/main.2237dd78.js",
+    "index.html": "/Topcourses/index.html",
+    "main.85c0c9ce.css.map": "/Topcourses/static/css/main.85c0c9ce.css.map",
+    "main.2237dd78.js.map": "/Topcourses/static/js/main.2237dd78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c0c9ce.css",
+    "static/js/main.2237dd78.js"
+  ]
+}
